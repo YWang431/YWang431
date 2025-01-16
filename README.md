@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Yufei Wang!
 
-<!--
-**YWang431/YWang431** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Recent Graduate**  
+Master’s in Business Analytics @ UCLA Anderson School of Management (December 2024)  
+Bachelor’s in Statistics @ UCLA (Cum Laude)  
 
-Here are some ideas to get you started:
+💼 **Professional Expertise**  
+- **Tools & Technologies**: Python, R, SQL, Snowflake, Tableau, Databricks, Hadoop, Spark, AWS (S3/EC2)
+- **Specializations**: Machine Learning, A/B Testing, Experimentation, CRM Strategy, Data Storytelling, ETL Pipelines
+- **Industry Experience**: Tech, VC, Entmt, Insure  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌟 **About Me**  
+I'm passionate about leveraging data to drive **strategic decisions** and **operational efficiency**. My cross-disciplinary experiences at ByteDance, Alibaba, Tencent, and tech startups have equipped me with robust analytical and storytelling skills. I thrive in roles that challenge me to blend **statistics**, **product insights**, and **data engineering**.
+
+---
+
+### 🔧 Tech Stack
+- **Programming Languages**: Python, R, SQL, C++
+- **Data Tools**: Snowflake, Databricks, Tableau, Power BI, Jupyter, RStudio  
+- **Platforms**: AWS (S3/EC2), Azure, Docker  
+- **Other Skills**: Data Modeling, Experimentation, Machine Learning, Statistics Modeling
+
